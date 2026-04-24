@@ -18,6 +18,8 @@
 ![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Linux%20%7C%20Windows-lightgrey?style=flat-square)
 ![Tidal](https://img.shields.io/badge/Tidal-000000?style=flat-square&logo=tidal&logoColor=white)
 
+[![Buy me a coffee](https://img.shields.io/badge/PayPal-buy%20me%20a%20coffee-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/luttimarlon)
+
 </div>
 
 ---
@@ -189,6 +191,14 @@ Unofficial tool, not affiliated with or endorsed by Tidal. Uses an undocumented 
 ## 📄 License
 
 [MIT](LICENSE) — do whatever, no warranty.
+
+## ☕ Support
+
+If this saved you a few thousand clicks and you want to say thanks:
+
+<a href="https://paypal.me/luttimarlon"><img src="https://img.shields.io/badge/PayPal-buy%20me%20a%20coffee-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Buy me a coffee"></a>
+
+Every bit is appreciated. 🙏
 
 ---
 
